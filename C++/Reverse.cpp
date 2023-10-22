@@ -1,2 +1,3 @@
-def reverse(self):
-    self.stack.reverse()
+void reverse() {
+    std::reverse(stack.begin(), stack.end());
+}
